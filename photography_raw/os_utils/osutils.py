@@ -16,10 +16,16 @@ FILE_SOURCE_EXTENSIONS='.cr2, .cr3, .nef, .arw, .dng'
 FILE_TARGET_EXTENSION_ENV='file_target_extension'
 FILE_TARGET_EXTENSION='tiff'
 
+FILE_TARGET_EXTENSION_SECUNDARY_ENV='file_target_extension_secundary'
+FILE_TARGET_SECUNDARY_EXTENSION='jpeg'
+SECUNDARY_ALLOW_ENV='secundary_allow'
+SECUNDARY_ALLOW='False'
+
+
 
 def get_parameter(env_variable:str, default_value:str) -> str:
     try:
-        return os.environ[env_variable.upper()]
+        return os.environ[env_variable.upper().strip()]
     except:
         get_logger().warning(f'{env_variable} empty, using default {default_value}')
         return default_value
@@ -43,6 +49,14 @@ def get_target_extension() -> str:
     return get_parameter(env_variable=FILE_TARGET_EXTENSION_ENV, default_value=FILE_TARGET_EXTENSION)
 
 
+def get_target_secundary_extension() -> str:
+    return get_parameter(env_variable=FILE_TARGET_EXTENSION_SECUNDARY_ENV, default_value=FILE_TARGET_SECUNDARY_EXTENSION)
+
+
+def get_target_secundary_allow() -> bool:
+    return bool(get_parameter(env_variable=SECUNDARY_ALLOW_ENV, default_value=SECUNDARY_ALLOW))
+
+
 def read_source(path:str, extensions:list) -> list:
     files = []
 
@@ -62,20 +76,21 @@ def read_source(path:str, extensions:list) -> list:
     return files
 
 
-def build_current_target_dir(target_dir:str, raw:bool=True) -> str:
+def build_current_target_dir(target_dir:str, target_type:str=get_target_extension()) -> str:
     date = datetime.now()
+    tgt_type = target_type.lower().strip()
     current_target_dir = os.path.join(target_dir, str(date.year), str(date.month), str(date.day))
 
-    if raw:
-        current_target_dir = os.path.join(current_target_dir, 'raw')
+    if tgt_type == get_target_extension():
+        current_target_dir = os.path.join(current_target_dir, tgt_type)
     else:
-        current_target_dir = os.path.join(current_target_dir, get_target_extension().lower().strip())
+        current_target_dir = os.path.join(current_target_dir, tgt_type)
 
     return current_target_dir
 
 
 def copy_source(source_files:list, target_dir:str) -> None:
-    current_target_dir = build_current_target_dir(target_dir=target_dir, raw=True)
+    current_target_dir = build_current_target_dir(target_dir=target_dir, target_type='raw')
     os.makedirs(name=current_target_dir, exist_ok=True)
 
     get_logger().info(f'Saving source files in {current_target_dir}')
@@ -95,4 +110,9 @@ def convert_images(source_dir:str, target_dir:str, file_type:str) -> None:
         target_file = os.path.join(target_dir, f'{os.path.splitext(file)[0]}.{file_type.lower().strip()}')
 
         get_logger().info(f'Converting {source_file} to {target_file}')
-        convert_image(source_file=source_file, target_file=target_file, file_type=file_type)
+        convert_image(
+            source_file=source_file,
+            target_file=target_file,
+            file_type=file_type,
+            raw=file_type == get_target_extension()
+        )
