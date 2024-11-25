@@ -1,0 +1,756 @@
+WARNING:root:source_dir empty, using default /media/gustavooliveira/3133-3934/
+WARNING:root:file_source_extensions empty, using default .cr2, .cr3, .nef, .arw, .dng
+INFO:root:Scanning source directory /media/gustavooliveira/3133-3934/
+INFO:root:Verifying DCIM
+INFO:root:Scanning source directory /media/gustavooliveira/3133-3934/DCIM
+INFO:root:Verifying 100CANON
+INFO:root:Scanning source directory /media/gustavooliveira/3133-3934/DCIM/100CANON
+INFO:root:Verifying IMG_0027.CR2
+INFO:root:Matched IMG_0027.CR2
+INFO:root:Verifying IMG_0028.CR2
+INFO:root:Matched IMG_0028.CR2
+INFO:root:Verifying IMG_0029.CR2
+INFO:root:Matched IMG_0029.CR2
+INFO:root:Verifying IMG_0030.CR2
+INFO:root:Matched IMG_0030.CR2
+INFO:root:Verifying IMG_0031.CR2
+INFO:root:Matched IMG_0031.CR2
+INFO:root:Verifying IMG_0032.CR2
+INFO:root:Matched IMG_0032.CR2
+INFO:root:Verifying IMG_0033.CR2
+INFO:root:Matched IMG_0033.CR2
+INFO:root:Verifying IMG_0034.CR2
+INFO:root:Matched IMG_0034.CR2
+INFO:root:Verifying IMG_0035.CR2
+INFO:root:Matched IMG_0035.CR2
+INFO:root:Verifying IMG_0036.CR2
+INFO:root:Matched IMG_0036.CR2
+INFO:root:Verifying IMG_0037.CR2
+INFO:root:Matched IMG_0037.CR2
+INFO:root:Verifying IMG_0038.CR2
+INFO:root:Matched IMG_0038.CR2
+INFO:root:Verifying IMG_0039.CR2
+INFO:root:Matched IMG_0039.CR2
+INFO:root:Verifying IMG_0040.CR2
+INFO:root:Matched IMG_0040.CR2
+INFO:root:Verifying IMG_0041.CR2
+INFO:root:Matched IMG_0041.CR2
+INFO:root:Verifying IMG_0042.CR2
+INFO:root:Matched IMG_0042.CR2
+INFO:root:Verifying IMG_0043.CR2
+INFO:root:Matched IMG_0043.CR2
+INFO:root:Verifying IMG_0044.CR2
+INFO:root:Matched IMG_0044.CR2
+INFO:root:Verifying IMG_0045.CR2
+INFO:root:Matched IMG_0045.CR2
+INFO:root:Verifying IMG_0046.CR2
+INFO:root:Matched IMG_0046.CR2
+INFO:root:Verifying IMG_0047.CR2
+INFO:root:Matched IMG_0047.CR2
+INFO:root:Verifying IMG_0048.CR2
+INFO:root:Matched IMG_0048.CR2
+INFO:root:Verifying IMG_0049.CR2
+INFO:root:Matched IMG_0049.CR2
+INFO:root:Verifying IMG_0050.CR2
+INFO:root:Matched IMG_0050.CR2
+INFO:root:Verifying IMG_0051.CR2
+INFO:root:Matched IMG_0051.CR2
+INFO:root:Verifying IMG_0052.CR2
+INFO:root:Matched IMG_0052.CR2
+INFO:root:Verifying IMG_0053.CR2
+INFO:root:Matched IMG_0053.CR2
+INFO:root:Verifying IMG_0054.CR2
+INFO:root:Matched IMG_0054.CR2
+INFO:root:Verifying IMG_0055.CR2
+INFO:root:Matched IMG_0055.CR2
+INFO:root:Verifying IMG_0056.CR2
+INFO:root:Matched IMG_0056.CR2
+INFO:root:Verifying IMG_0057.CR2
+INFO:root:Matched IMG_0057.CR2
+INFO:root:Verifying IMG_0058.CR2
+INFO:root:Matched IMG_0058.CR2
+INFO:root:Verifying IMG_0059.CR2
+INFO:root:Matched IMG_0059.CR2
+INFO:root:Verifying IMG_0060.CR2
+INFO:root:Matched IMG_0060.CR2
+INFO:root:Verifying IMG_0061.CR2
+INFO:root:Matched IMG_0061.CR2
+INFO:root:Verifying IMG_0062.CR2
+INFO:root:Matched IMG_0062.CR2
+INFO:root:Verifying IMG_0063.CR2
+INFO:root:Matched IMG_0063.CR2
+INFO:root:Verifying IMG_0064.CR2
+INFO:root:Matched IMG_0064.CR2
+INFO:root:Verifying IMG_0065.CR2
+INFO:root:Matched IMG_0065.CR2
+INFO:root:Verifying IMG_0066.CR2
+INFO:root:Matched IMG_0066.CR2
+INFO:root:Verifying IMG_0067.CR2
+INFO:root:Matched IMG_0067.CR2
+INFO:root:Verifying IMG_0068.CR2
+INFO:root:Matched IMG_0068.CR2
+INFO:root:Verifying IMG_0069.CR2
+INFO:root:Matched IMG_0069.CR2
+INFO:root:Verifying IMG_0070.CR2
+INFO:root:Matched IMG_0070.CR2
+INFO:root:Verifying IMG_0071.CR2
+INFO:root:Matched IMG_0071.CR2
+INFO:root:Verifying IMG_0072.CR2
+INFO:root:Matched IMG_0072.CR2
+INFO:root:Verifying IMG_0073.CR2
+INFO:root:Matched IMG_0073.CR2
+INFO:root:Verifying IMG_0074.CR2
+INFO:root:Matched IMG_0074.CR2
+INFO:root:Verifying IMG_0075.CR2
+INFO:root:Matched IMG_0075.CR2
+INFO:root:Verifying IMG_0076.CR2
+INFO:root:Matched IMG_0076.CR2
+INFO:root:Verifying IMG_0077.CR2
+INFO:root:Matched IMG_0077.CR2
+INFO:root:Verifying IMG_0078.CR2
+INFO:root:Matched IMG_0078.CR2
+INFO:root:Verifying IMG_0079.CR2
+INFO:root:Matched IMG_0079.CR2
+INFO:root:Verifying IMG_0080.CR2
+INFO:root:Matched IMG_0080.CR2
+INFO:root:Verifying IMG_0081.CR2
+INFO:root:Matched IMG_0081.CR2
+INFO:root:Verifying IMG_0082.CR2
+INFO:root:Matched IMG_0082.CR2
+INFO:root:Verifying IMG_0083.CR2
+INFO:root:Matched IMG_0083.CR2
+INFO:root:Verifying IMG_0084.CR2
+INFO:root:Matched IMG_0084.CR2
+INFO:root:Verifying IMG_0085.CR2
+INFO:root:Matched IMG_0085.CR2
+INFO:root:Verifying IMG_0086.CR2
+INFO:root:Matched IMG_0086.CR2
+INFO:root:Verifying IMG_0087.CR2
+INFO:root:Matched IMG_0087.CR2
+INFO:root:Verifying IMG_0088.CR2
+INFO:root:Matched IMG_0088.CR2
+INFO:root:Verifying IMG_0089.CR2
+INFO:root:Matched IMG_0089.CR2
+INFO:root:Verifying IMG_0090.CR2
+INFO:root:Matched IMG_0090.CR2
+INFO:root:Verifying IMG_0091.CR2
+INFO:root:Matched IMG_0091.CR2
+INFO:root:Verifying IMG_0092.CR2
+INFO:root:Matched IMG_0092.CR2
+INFO:root:Verifying IMG_0093.CR2
+INFO:root:Matched IMG_0093.CR2
+INFO:root:Verifying IMG_0094.CR2
+INFO:root:Matched IMG_0094.CR2
+INFO:root:Verifying IMG_0095.CR2
+INFO:root:Matched IMG_0095.CR2
+INFO:root:Verifying IMG_0096.CR2
+INFO:root:Matched IMG_0096.CR2
+INFO:root:Verifying IMG_0097.CR2
+INFO:root:Matched IMG_0097.CR2
+INFO:root:Verifying IMG_0098.CR2
+INFO:root:Matched IMG_0098.CR2
+INFO:root:Verifying IMG_0099.CR2
+INFO:root:Matched IMG_0099.CR2
+INFO:root:Verifying IMG_0100.CR2
+INFO:root:Matched IMG_0100.CR2
+INFO:root:Verifying IMG_0101.CR2
+INFO:root:Matched IMG_0101.CR2
+INFO:root:Verifying IMG_0102.CR2
+INFO:root:Matched IMG_0102.CR2
+INFO:root:Verifying IMG_0103.CR2
+INFO:root:Matched IMG_0103.CR2
+INFO:root:Verifying IMG_0104.CR2
+INFO:root:Matched IMG_0104.CR2
+INFO:root:Verifying IMG_0105.CR2
+INFO:root:Matched IMG_0105.CR2
+INFO:root:Verifying IMG_0106.CR2
+INFO:root:Matched IMG_0106.CR2
+INFO:root:Verifying IMG_0107.CR2
+INFO:root:Matched IMG_0107.CR2
+INFO:root:Verifying IMG_0108.CR2
+INFO:root:Matched IMG_0108.CR2
+INFO:root:Verifying IMG_0109.CR2
+INFO:root:Matched IMG_0109.CR2
+INFO:root:Verifying IMG_0110.CR2
+INFO:root:Matched IMG_0110.CR2
+INFO:root:Verifying IMG_0111.CR2
+INFO:root:Matched IMG_0111.CR2
+INFO:root:Verifying IMG_0112.CR2
+INFO:root:Matched IMG_0112.CR2
+INFO:root:Verifying IMG_0113.CR2
+INFO:root:Matched IMG_0113.CR2
+INFO:root:Verifying IMG_0114.CR2
+INFO:root:Matched IMG_0114.CR2
+INFO:root:Verifying IMG_0115.CR2
+INFO:root:Matched IMG_0115.CR2
+INFO:root:Verifying IMG_0116.CR2
+INFO:root:Matched IMG_0116.CR2
+INFO:root:Verifying IMG_0117.CR2
+INFO:root:Matched IMG_0117.CR2
+INFO:root:Verifying IMG_0118.CR2
+INFO:root:Matched IMG_0118.CR2
+INFO:root:Verifying IMG_0119.CR2
+INFO:root:Matched IMG_0119.CR2
+INFO:root:Verifying IMG_0120.CR2
+INFO:root:Matched IMG_0120.CR2
+INFO:root:Verifying IMG_0121.CR2
+INFO:root:Matched IMG_0121.CR2
+INFO:root:Verifying IMG_0122.CR2
+INFO:root:Matched IMG_0122.CR2
+INFO:root:Verifying IMG_0123.CR2
+INFO:root:Matched IMG_0123.CR2
+INFO:root:Verifying IMG_0124.CR2
+INFO:root:Matched IMG_0124.CR2
+INFO:root:Verifying IMG_0125.CR2
+INFO:root:Matched IMG_0125.CR2
+INFO:root:Verifying IMG_0126.CR2
+INFO:root:Matched IMG_0126.CR2
+INFO:root:Verifying IMG_0127.CR2
+INFO:root:Matched IMG_0127.CR2
+INFO:root:Verifying IMG_0128.CR2
+INFO:root:Matched IMG_0128.CR2
+INFO:root:Verifying IMG_0129.CR2
+INFO:root:Matched IMG_0129.CR2
+INFO:root:Verifying IMG_0130.CR2
+INFO:root:Matched IMG_0130.CR2
+INFO:root:Verifying IMG_0131.CR2
+INFO:root:Matched IMG_0131.CR2
+INFO:root:Verifying EOSMISC
+INFO:root:Scanning source directory /media/gustavooliveira/3133-3934/DCIM/EOSMISC
+INFO:root:Verifying M0100.CTG
+INFO:root:Verifying MISC
+INFO:root:Scanning source directory /media/gustavooliveira/3133-3934/MISC
+WARNING:root:target_dir empty, using default /media/fileserver2/fotografia/
+INFO:root:Saving source files in /media/fileserver2/fotografia/2024/11/25/raw
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0027.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0027.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0028.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0028.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0029.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0029.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0030.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0030.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0031.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0031.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0032.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0032.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0033.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0033.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0034.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0034.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0035.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0035.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0036.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0036.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0037.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0037.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0038.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0038.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0039.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0039.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0040.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0040.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0041.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0041.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0042.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0042.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0043.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0043.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0044.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0044.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0045.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0045.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0046.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0046.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0047.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0047.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0048.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0048.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0049.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0049.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0050.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0050.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0051.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0051.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0052.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0052.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0053.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0053.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0054.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0054.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0055.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0055.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0056.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0056.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0057.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0057.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0058.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0058.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0059.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0059.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0060.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0060.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0061.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0061.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0062.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0062.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0063.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0063.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0064.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0064.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0065.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0065.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0066.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0066.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0067.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0067.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0068.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0068.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0069.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0069.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0070.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0070.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0071.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0071.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0072.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0072.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0073.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0073.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0074.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0074.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0075.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0075.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0076.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0076.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0077.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0077.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0078.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0078.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0079.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0079.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0080.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0080.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0081.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0081.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0082.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0082.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0083.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0083.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0084.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0084.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0085.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0085.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0086.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0086.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0087.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0087.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0088.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0088.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0089.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0089.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0090.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0090.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0091.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0091.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0092.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0092.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0093.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0093.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0094.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0094.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0095.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0095.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0096.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0096.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0097.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0097.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0098.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0098.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0099.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0099.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0100.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0100.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0101.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0101.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0102.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0102.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0103.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0103.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0104.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0104.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0105.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0105.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0106.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0106.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0107.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0107.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0108.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0108.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0109.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0109.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0110.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0110.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0111.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0111.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0112.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0112.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0113.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0113.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0114.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0114.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0115.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0115.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0116.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0116.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0117.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0117.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0118.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0118.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0119.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0119.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0120.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0120.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0121.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0121.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0122.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0122.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0123.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0123.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0124.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0124.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0125.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0125.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0126.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0126.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0127.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0127.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0128.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0128.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0129.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0129.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0130.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0130.CR2
+INFO:root:Copying /media/gustavooliveira/3133-3934/DCIM/100CANON/IMG_0131.CR2 to /media/fileserver2/fotografia/2024/11/25/raw/IMG_0131.CR2
+WARNING:root:target_dir empty, using default /media/fileserver2/fotografia/
+WARNING:root:target_dir empty, using default /media/fileserver2/fotografia/
+WARNING:root:file_target_extension empty, using default tiff
+WARNING:root:file_target_extension empty, using default tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0073.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0073.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0073.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0073.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0074.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0074.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0074.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0074.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0122.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0122.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0122.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0122.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0125.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0125.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0125.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0125.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0110.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0110.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0110.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0110.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0048.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0048.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0048.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0048.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0099.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0099.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0099.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0099.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0034.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0034.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0034.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0034.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0033.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0033.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0033.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0033.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0117.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0117.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0117.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0117.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0119.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0119.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0119.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0119.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0041.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0041.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0041.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0041.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0090.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0090.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0090.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0090.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0046.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0046.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0046.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0046.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0097.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0097.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0097.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0097.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0086.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0086.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0086.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0086.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0057.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0057.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0057.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0057.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0081.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0081.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0081.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0081.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0050.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0050.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0050.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0050.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0108.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0108.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0108.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0108.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0106.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0106.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0106.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0106.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0088.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0088.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0088.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0088.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0059.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0059.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0059.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0059.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0101.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0101.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0101.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0101.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0065.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0065.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0065.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0065.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0062.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0062.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0062.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0062.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0047.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0047.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0047.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0047.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0096.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0096.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0096.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0096.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0118.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0118.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0118.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0118.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0040.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0040.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0040.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0040.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0091.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0091.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0091.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0091.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0032.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0032.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0032.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0032.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0116.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0116.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0116.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0116.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0111.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0111.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0111.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0111.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0049.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0049.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0049.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0049.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0098.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0098.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0098.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0098.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0035.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0035.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0035.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0035.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0124.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0124.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0124.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0124.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0123.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0123.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0123.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0123.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0075.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0075.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0075.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0075.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0072.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0072.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0072.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0072.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0063.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0063.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0063.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0063.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0064.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0064.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0064.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0064.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0089.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0089.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0089.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0089.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0058.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0058.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0058.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0058.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0100.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0100.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0100.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0100.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0107.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0107.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0107.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0107.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0080.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0080.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0080.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0080.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0051.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0051.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0051.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0051.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0109.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0109.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0109.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0109.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0087.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0087.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0087.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0087.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0056.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0056.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0056.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0056.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0067.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0067.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0067.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0067.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0060.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0060.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0060.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0060.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0069.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0069.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0069.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0069.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0131.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0131.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0131.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0131.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0104.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0104.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0104.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0104.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0103.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0103.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0103.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0103.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0027.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0027.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0027.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0027.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0084.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0084.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0084.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0084.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0055.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0055.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0055.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0055.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0029.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0029.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0029.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0029.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0083.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0083.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0083.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0083.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0052.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0052.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0052.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0052.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0043.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0043.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0043.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0043.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0092.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0092.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0092.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0092.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0044.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0044.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0044.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0044.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0095.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0095.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0095.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0095.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0038.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0038.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0038.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0038.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0112.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0112.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0112.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0112.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0036.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0036.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0036.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0036.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0031.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0031.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0031.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0031.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0115.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0115.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0115.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0115.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0120.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0120.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0120.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0120.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0078.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0078.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0078.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0078.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0127.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0127.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0127.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0127.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0129.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0129.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0129.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0129.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0071.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0071.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0071.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0071.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0076.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0076.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0076.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0076.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0082.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0082.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0082.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0082.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0053.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0053.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0053.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0053.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0085.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0085.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0085.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0085.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0054.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0054.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0054.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0054.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0028.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0028.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0028.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0028.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0102.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0102.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0102.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0102.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0105.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0105.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0105.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0105.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0068.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0068.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0068.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0068.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0130.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0130.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0130.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0130.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0061.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0061.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0061.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0061.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0066.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0066.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0066.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0066.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0077.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0077.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0077.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0077.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0128.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0128.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0128.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0128.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0070.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0070.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0070.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0070.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0126.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0126.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0126.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0126.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0121.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0121.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0121.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0121.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0079.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0079.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0079.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0079.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0030.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0030.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0030.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0030.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0114.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0114.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0114.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0114.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0113.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0113.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0113.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0113.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0037.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0037.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0037.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0037.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0045.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0045.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0045.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0045.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0094.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0094.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0094.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0094.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0039.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0039.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0039.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0039.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0042.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0042.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0042.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0042.tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0093.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0093.tiff
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0093.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0093.tiff
+WARNING:root:target_dir empty, using default /media/fileserver2/fotografia/
+WARNING:root:target_dir empty, using default /media/fileserver2/fotografia/
+WARNING:root:file_target_extension empty, using default tiff
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0073.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0073.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0073.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0073.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0074.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0074.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0074.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0074.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0122.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0122.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0122.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0122.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0125.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0125.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0125.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0125.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0110.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0110.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0110.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0110.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0048.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0048.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0048.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0048.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0099.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0099.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0099.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0099.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0034.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0034.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0034.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0034.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0033.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0033.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0033.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0033.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0117.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0117.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0117.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0117.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0119.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0119.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0119.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0119.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0041.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0041.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0041.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0041.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0090.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0090.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0090.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0090.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0046.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0046.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0046.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0046.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0097.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0097.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0097.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0097.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0086.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0086.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0086.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0086.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0057.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0057.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0057.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0057.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0081.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0081.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0081.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0081.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0050.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0050.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0050.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0050.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0108.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0108.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0108.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0108.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0106.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0106.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0106.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0106.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0088.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0088.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0088.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0088.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0059.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0059.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0059.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0059.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0101.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0101.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0101.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0101.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0065.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0065.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0065.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0065.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0062.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0062.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0062.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0062.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0047.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0047.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0047.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0047.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0096.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0096.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0096.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0096.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0118.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0118.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0118.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0118.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0040.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0040.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0040.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0040.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0091.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0091.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0091.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0091.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0032.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0032.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0032.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0032.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0116.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0116.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0116.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0116.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0111.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0111.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0111.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0111.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0049.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0049.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0049.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0049.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0098.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0098.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0098.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0098.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0035.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0035.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0035.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0035.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0124.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0124.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0124.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0124.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0123.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0123.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0123.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0123.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0075.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0075.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0075.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0075.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0072.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0072.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0072.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0072.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0063.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0063.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0063.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0063.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0064.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0064.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0064.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0064.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0089.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0089.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0089.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0089.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0058.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0058.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0058.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0058.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0100.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0100.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0100.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0100.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0107.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0107.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0107.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0107.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0080.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0080.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0080.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0080.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0051.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0051.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0051.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0051.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0109.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0109.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0109.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0109.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0087.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0087.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0087.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0087.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0056.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0056.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0056.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0056.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0067.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0067.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0067.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0067.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0060.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0060.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0060.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0060.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0069.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0069.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0069.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0069.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0131.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0131.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0131.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0131.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0104.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0104.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0104.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0104.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0103.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0103.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0103.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0103.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0027.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0027.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0027.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0027.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0084.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0084.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0084.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0084.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0055.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0055.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0055.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0055.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0029.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0029.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0029.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0029.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0083.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0083.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0083.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0083.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0052.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0052.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0052.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0052.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0043.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0043.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0043.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0043.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0092.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0092.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0092.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0092.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0044.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0044.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0044.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0044.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0095.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0095.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0095.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0095.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0038.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0038.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0038.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0038.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0112.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0112.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0112.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0112.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0036.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0036.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0036.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0036.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0031.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0031.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0031.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0031.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0115.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0115.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0115.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0115.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0120.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0120.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0120.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0120.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0078.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0078.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0078.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0078.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0127.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0127.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0127.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0127.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0129.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0129.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0129.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0129.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0071.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0071.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0071.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0071.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0076.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0076.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0076.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0076.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0082.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0082.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0082.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0082.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0053.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0053.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0053.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0053.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0085.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0085.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0085.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0085.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0054.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0054.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0054.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0054.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0028.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0028.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0028.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0028.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0102.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0102.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0102.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0102.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0105.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0105.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0105.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0105.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0068.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0068.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0068.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0068.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0130.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0130.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0130.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0130.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0061.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0061.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0061.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0061.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0066.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0066.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0066.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0066.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0077.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0077.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0077.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0077.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0128.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0128.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0128.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0128.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0070.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0070.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0070.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0070.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0126.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0126.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0126.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0126.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0121.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0121.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0121.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0121.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0079.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0079.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0079.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0079.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0030.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0030.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0030.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0030.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0114.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0114.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0114.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0114.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0113.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0113.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0113.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0113.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0037.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0037.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0037.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0037.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0045.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0045.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0045.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0045.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0094.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0094.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0094.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0094.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0039.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0039.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0039.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0039.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0042.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0042.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0042.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0042.jpeg
+INFO:root:Converting /media/fileserver2/fotografia/2024/11/25/raw/IMG_0093.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0093.jpeg
+INFO:root:Converted /media/fileserver2/fotografia/2024/11/25/raw/IMG_0093.CR2 to /media/fileserver2/fotografia/2024/11/25/tiff/IMG_0093.jpeg

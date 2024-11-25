@@ -2,6 +2,8 @@ import os
 import logging
 import shutil
 from datetime import datetime
+from image_utils.imageutils import convert_image
+from utils.utils import get_logger
 
 SOURCE_DIR_ENV = 'source_dir'
 TARGET_DIR_ENV = 'target_dir'
@@ -14,14 +16,12 @@ FILE_SOURCE_EXTENSIONS='.cr2, .cr3, .nef, .arw, .dng'
 FILE_TARGET_EXTENSION_ENV='file_target_extension'
 FILE_TARGET_EXTENSION='tiff'
 
-logger = logging.getLogger(__name__)
-
 
 def get_parameter(env_variable:str, default_value:str) -> str:
     try:
         return os.environ[env_variable.upper()]
     except:
-        logger.warning(f'{env_variable} empty, using default {default_value}')
+        get_logger().warning(f'{env_variable} empty, using default {default_value}')
         return default_value
     
 
@@ -46,18 +46,18 @@ def get_target_extension() -> str:
 def read_source(path:str, extensions:list) -> list:
     files = []
 
-    logger.info(f'Scanning source directory {path}')
+    get_logger().info(f'Scanning source directory {path}')
 
     for file in os.listdir(path):
         full_path = os.path.join(path, file)
 
-        logger.info(f'Verifying {file}')
+        get_logger().info(f'Verifying {file}')
 
         if os.path.isdir(full_path):
             [files.append(f) for f in read_source(path=full_path, extensions=extensions)]
         elif file.lower().endswith(tuple(extensions)):
             files.append(os.path.join(path, file))
-            logger.info(f'Matched {file}')
+            get_logger().info(f'Matched {file}')
     
     return files
 
@@ -78,10 +78,21 @@ def copy_source(source_files:list, target_dir:str) -> None:
     current_target_dir = build_current_target_dir(target_dir=target_dir, raw=True)
     os.makedirs(name=current_target_dir, exist_ok=True)
 
-    logger.info(f'Saving source files in {current_target_dir}')
+    get_logger().info(f'Saving source files in {current_target_dir}')
 
     for source_file in source_files:
         target_file = os.path.join(current_target_dir, os.path.basename(source_file))
 
-        logger.info(f'Copying {source_file} to {target_file}')
+        get_logger().info(f'Copying {source_file} to {target_file}')
         shutil.copy(src=source_file, dst=target_file)
+
+
+def convert_images(source_dir:str, target_dir:str, file_type:str) -> None:
+    os.makedirs(name=target_dir, exist_ok=True)
+
+    for file in os.listdir(source_dir):
+        source_file = os.path.join(source_dir, file)
+        target_file = os.path.join(target_dir, f'{os.path.splitext(file)[0]}.{file_type.lower().strip()}')
+
+        get_logger().info(f'Converting {source_file} to {target_file}')
+        convert_image(source_file=source_file, target_file=target_file, file_type=file_type)
